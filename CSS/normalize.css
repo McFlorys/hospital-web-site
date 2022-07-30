@@ -1,0 +1,12 @@
+@import url('http://fonts.cdnfonts.com/css/gilroy-bold');
+@import url('http://fonts.cdnfonts.com/css/gilroy-heavy');
+@import url('http://fonts.cdnfonts.com/css/gilroy-light');
+@import url('http://fonts.cdnfonts.com/css/gilroy-medium');
+@import url('http://fonts.cdnfonts.com/css/gilroy-regular');
+@import url('http://db.onlinewebfonts.com/c/9b06ae83a4412168ed194a8ed31218c2?family=Mabry+Pro+Medium');
+
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}

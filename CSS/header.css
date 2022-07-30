@@ -1,0 +1,60 @@
+header {
+    margin-bottom: 69px;
+}
+.h-wrapper {
+    position: relative;
+    height: 77px;
+    border-radius: 0 0 20px 20px;
+    max-width: 1210px;
+    margin: 0 auto;
+    padding-top: 15px;
+    border: 2px solid #181818;
+    background-color: white;
+    border-top: none;
+    z-index: 1;
+}
+.logo {
+    padding-right: 30px;
+}
+.h-container {
+    max-width: 1130px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.nav-link li {
+    font-family: 'gilroy-medium';
+    font-size: 16px;
+    color: #181818;
+    display: inline;
+    margin-right: 80px;
+}
+.nav-link li:last-of-type {
+    margin-right: 0;
+}
+.h-button {
+    padding-left: 30px;
+}
+.h-btn {
+    width: 206px;
+    height: 56px;
+    background-color: #F8845B;
+    border: 2px solid #181818;
+    border-radius: 5px;
+    font-family: 'gilroy-bold';
+    color: #181818;
+    font-size: 16px;
+}
+.navbar {
+    margin: 0 auto;
+}
+.h-wrapper-ar {
+    max-width: 1210px;
+    height: 100px;
+    border-radius: 0 0 20px 20px;
+    margin: -100px auto 0 auto;
+    background-color: #F8845B;
+    border: 2px solid #181818;
+    transform: rotateZ(-2deg) translate(18px);
+    z-index: -1;
+}
